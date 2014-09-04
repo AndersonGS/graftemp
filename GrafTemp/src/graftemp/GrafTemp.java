@@ -8,7 +8,7 @@ package graftemp;
 
 /**
  *
- * @author alunom13
+ * @author Anderson
  */
 public class GrafTemp {
 
