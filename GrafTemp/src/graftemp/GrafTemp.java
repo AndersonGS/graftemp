@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package graftemp;
+
+import graftemp.logica.Formula;
 
 /**
  *
@@ -12,11 +13,12 @@ package graftemp;
  */
 public class GrafTemp {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+//    /**
+//     * @param args the command line arguments
+//     */
+//    public static void main(String[] args) {
+//        Formula formula = new Formula(20, 50, 1);
+//        formula.temperaturaEmRelacaoX(1000, 300, 50);
+//    }
 
 }
